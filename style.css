@@ -85,7 +85,7 @@ header .navbar nav ul{
     align-items: center;
 }
 header .navbar nav ul li{
-    margin: 0 15px;
+    margin: 15px 15px;
     font-weight: 600;
 }
 header .navbar nav ul li a{
